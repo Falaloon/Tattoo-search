@@ -1,0 +1,23 @@
+#root {
+  /* max-width: 1280px; */
+  margin: 0 auto;
+  /* padding: 2rem; */
+  text-align: center;
+}
+
+.app-section{
+  padding: 30px;
+}
+
+.app-container{
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.app-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 16px;
+}
+

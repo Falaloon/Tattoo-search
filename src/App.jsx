@@ -43,7 +43,6 @@ const filteredTattoos = tattoos.filter((tattoo)=>{
             {tattooElement}
           </div> 
         </div>
-
       </section>
       {tattooPost}
     </div>
